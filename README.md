@@ -13,7 +13,7 @@ Course Objectives:
 3.	Be able to write methods and understand the usefulness of object oriented programming
 4.	Be able to write algorithms/pseudo code for various problems
 5.	Understand data structures such as arrays and the different sorting techniques
-6.	Be familiar with Visual Basic, Java, C#, and C++ programming languages so that you can fairly choose a 
+6.	Be familiar with Python, Java, C#, and C++ programming languages so that you can fairly choose a 
     language to advance to, if desired.
 
 Materials Needed.  Students will need a notebook and pens/pencils.  Students are to come prepared to class, 
